@@ -1,6 +1,6 @@
 ### Qirun Li
 
-Independent researcher in LLM training and evaluation. Former senior quant researcher (2022–2026), now applying the same habits to LLMs: pre-registered predictions, noise floors, one variable at a time.
+Independent researcher in LLM training and evaluation. Quant trader since 2018: co-founded NV Capital, a quant trading firm. I apply the same habits to LLMs: pre-registered predictions, noise floors, one variable at a time.
 
 **Projects**
 - **[LLM from scratch → the aha moment → a coding agent](https://github.com/bethehand/lab1-llm-scratch-to-aha-moment-to-coding-agent)**: 15 controlled experiments on 4× RTX 4090, from pretraining 95M/201M models to GRPO and a four-stage coding-agent curriculum. [Report](https://bethehand.github.io/lab1-llm-scratch-to-aha-moment-to-coding-agent/en/)
