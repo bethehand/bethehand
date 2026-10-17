@@ -4,7 +4,7 @@ Independent researcher in LLM training and evaluation. Quant trader since 2018: 
 
 **Projects**
 - **[LLM from scratch → the aha moment → a coding agent](https://github.com/bethehand/lab1-llm-scratch-to-aha-moment-to-coding-agent)**: 15 controlled experiments on 4× RTX 4090, from pretraining 95M/201M models to GRPO and a four-stage coding-agent curriculum. [Report](https://bethehand.github.io/lab1-llm-scratch-to-aha-moment-to-coding-agent/en/)
-- **[looped-scaling](https://github.com/bethehand/looped-scaling)**: a pre-registered scaling study of looped (recurrent-depth) transformers, 111 training runs at 10M–160M parameters. [Report](https://github.com/bethehand/looped-scaling/blob/main/docs/report.md) (draft)
+- **[looped-scaling](https://github.com/bethehand/looped-scaling)**: a pre-registered scaling study of looped (recurrent-depth) transformers, 111 training runs at 10M–160M parameters. [Report](https://github.com/bethehand/looped-scaling/blob/main/docs/report.md) 
 - **[marin-hero-forecast](https://github.com/bethehand/marin-hero-forecast)**: code and data for the Marin contributions below.
 
 **Contributions to [Marin](https://github.com/marin-community/marin)**
