@@ -18,10 +18,3 @@ A pre-registered scaling study of looped (recurrent-depth) transformers: 232 lan
 
 Which RLVR training data changes what, outside the training domain? Ai2 publishes every post-training stage of Olmo 3 Think and its eval code, so a behaviour can be traced to the stage that changed it, measured the way Ai2 measures it; which data causes it is then tested with small open-instruct runs that change one data type at a time. So far: Ai2's safety numbers for the Olmo 3 7B Think stages replicated within 1 point of Table 52, with run-to-run noise ([open-instruct #1964](https://github.com/allenai/open-instruct/issues/1964#issuecomment-6247442515)); answer length across the SFT, DPO and RL stages, where DPO adds most of it and Olmo 3.1's longer RL adds about 10% that its new default system prompt hides ([#2002](https://github.com/allenai/open-instruct/issues/2002#issuecomment-6256732503)). Independent work, not affiliated with Ai2.
 
-#### Contributions to [Marin](https://github.com/marin-community/marin)
-
-Code and data in [marin-hero-forecast](https://github.com/bethehand/marin-hero-forecast).
-
-- A pre-registered forecast of the 535B-A23B hero run's final loss, with 80/95% intervals, scored when the run switched to 16K context: the realized loss came in 0.004 below the 95% interval, and the miss stays in the score under the pre-registered rules ([#9977](https://github.com/marin-community/marin/issues/9977))
-- PTB/WikiText eval contamination: noise attribution, a decontamination recall test and a Stack v3 scan ([#9874](https://github.com/marin-community/marin/issues/9874#issuecomment-6084418948), [#6852](https://github.com/marin-community/marin/issues/6852#issuecomment-6084440623))
-- Eval-noise analyses for the 16K context-switch trial, cited in its plan ([#9615](https://github.com/marin-community/marin/issues/9615#issuecomment-6148075900)), and for Belay ([#9514](https://github.com/marin-community/marin/issues/9514#issuecomment-6148216908))
