@@ -2,7 +2,7 @@
 
 I train language models and measure what the training actually changes. Quant trader since 2018 (co-founded NV Capital); full-time on LLM training research since August 2026. From trading I kept three habits: write the prediction down before the run, put a noise floor on every result, change one thing at a time.
 
-Looking for a model-training role at an AI lab: pretraining, post-training/RL or alignment. [LinkedIn](https://www.linkedin.com/in/qirunli/) · [Hugging Face](https://huggingface.co/icedduck) · qli858246@gmail.com
+Looking for a model-training role at an AI lab (pretraining, post-training/RL or alignment) and for opportunities to train myself as a researcher. Preparing for a PhD in artificial intelligence. [LinkedIn](https://www.linkedin.com/in/qirunli/) · [Hugging Face](https://huggingface.co/icedduck) · qli858246@gmail.com
 
 #### Research
 
