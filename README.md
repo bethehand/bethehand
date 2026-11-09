@@ -10,7 +10,7 @@ Looking for a model-training role at an AI lab (pretraining, post-training/RL or
 
 Fifteen controlled experiments on 4× RTX 4090, from pretraining 95M/201M models through GRPO and the R1 "aha moment" (Countdown pass@1 .02 → .75) to an RL-trained coding agent. RL raised pass@1 at every stage while pass@32 barely moved: it reorders what the model can already do.
 
-**2. [looped-scaling](https://github.com/bethehand/looped-scaling)** · complete, paper draft for TMLR · [report](https://github.com/bethehand/looped-scaling/blob/main/docs/report.md) ([中文](https://github.com/bethehand/looped-scaling/blob/main/docs/report.zh.md)) · [paper](https://github.com/bethehand/looped-scaling/blob/main/paper/paper.pdf)
+**2. [looped-scaling](https://github.com/bethehand/looped-scaling)** · complete · [report](https://github.com/bethehand/looped-scaling/blob/main/docs/report.md) ([中文](https://github.com/bethehand/looped-scaling/blob/main/docs/report.zh.md)) · [paper](https://github.com/bethehand/looped-scaling/blob/main/paper/paper.pdf)
 
 A pre-registered scaling study of looped (recurrent-depth) transformers: 242 language models at 10M–160M. On web text a loop buys parameter efficiency that grows with size (better than dense from 40M on) but no compute efficiency at any scale measured, and decoding is 2.4–2.5× slower. On a synthetic task that needs serial steps it buys depth that extends at inference: more loops, longer chains.
 
